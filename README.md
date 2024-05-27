@@ -1,2 +1,4 @@
 # 01_Lab
-Install and use it in own machine.
+### 01_sum.py
+
+This program take two numerical variables from user and provide the sum of it.
